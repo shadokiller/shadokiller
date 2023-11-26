@@ -6,9 +6,9 @@
 
 # 💻 İlgi Alanlarım:
 
-##Sosyal Medya
-##Cracking
-##Methods
+##Sosyal Medya<br/>
+##Cracking<br/>
+##Methods<br/>
 
 # 📊 GitHub İstatistiklerim:
 ![](https://github-readme-stats.vercel.app/api?username=shadokiller&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
