@@ -16,5 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadokiller&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 👀 Profil Görüntülenmem:
-[![](https://visitcount.itsvg.in/api?id=shadokiller&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](<img src="https://camo.githubusercontent.com/ce6ffeaa36a3ecfd09f10ffbc14edbc127800641fd44102bdecc93767319f331/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736861646f6b696c6c65722d3038266c6162656c3d50726f66696c65253230566965777326636f6c6f723d306537356236267374796c653d666c6174" alt="aliyefhx" data-canonical-src="https://komarev.com/ghpvc/?username=shadokiller-08&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">)
 
