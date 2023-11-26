@@ -5,9 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shadoxyedek) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/shadokiller) 
 
 # 💻 İlgi Alanlarım:
-![Sosyal Medya]
-![Cracking]
-![Methods]
+![Sosyal Medya](https://instagram.com/shadoxyedek)
+![Cracking](https://instagram.com/shadoxyedek)
+![Methods](https://instagram.com/shadoxyedek)
 
 # 📊 GitHub İstatistiklerim:
 ![](https://github-readme-stats.vercel.app/api?username=shadokiller&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
