@@ -6,15 +6,15 @@
 
 # 💻 İlgi Alanlarım:
 
-##Sosyal Medya<br/>
-##Cracking<br/>
-##Methods<br/>
+<b>Sosyal Medya</b><br/>
+<b>Cracking</b><br/>
+<b>Methods</b><br/>
 
 # 📊 GitHub İstatistiklerim:
 ![](https://github-readme-stats.vercel.app/api?username=shadokiller&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shadokiller&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadokiller&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+# 👀 Profil Görüntülenmem:
 [![](https://visitcount.itsvg.in/api?id=shadokiller&icon=0&color=12)](https://visitcount.itsvg.in)
 
